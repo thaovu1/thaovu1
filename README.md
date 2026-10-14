@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 **Researcher | Institution**
 
-I am a researcher working on [research area].
-My research interests include [topics].
+Thao Vu is an assistant professor - research in the Department of Biostatistics & Informatics and a faculty member in the Center for Innovative Design & Analysis. Dr. Vu has been involved in multiple collaborative research projects focusing on developing novel statistical approaches for analyzing multi-omic and spatially resolved single-cell imaging data.
 
 📧 **Email:** your.email@university.edu  
 📚 [Google Scholar](YOUR_SCHOLAR_LINK)  
